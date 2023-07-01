@@ -9,4 +9,4 @@ A repository of amazing components for your next React project.
 - while adding your component make a new folder inside the appropriate section then add your component files there.
 - once done making changes, make commit with suitable comments and push it to your forked repository.
 - open a pull request describing what you did.
-- wait for the code to be reviewed
+- wait for the pull request to be reviewed
